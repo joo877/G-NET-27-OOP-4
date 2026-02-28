@@ -58,6 +58,47 @@ obj.Show();
              */
             #endregion
             #endregion
+            #region part02
+            //Cinema cinema = new Cinema();
+            //StandardTicket standard = new StandardTicket("Inception", 120m, "A-5");
+            //VIPTicket vIP = new VIPTicket("Avengers", 200m, true, 50m);
+            //IMAXTicket iMAX = new IMAXTicket("Dune", 180m, false);
+            
+
+            //Console.WriteLine(" ::::::::: Cinema Opened :::::::");
+            //cinema.OpenCinema();
+
+            //cinema.AddTicket(standard);
+            //cinema.AddTicket(vIP);
+            //cinema.AddTicket(iMAX);
+
+            //Console.WriteLine();
+            //Console.WriteLine("::::::::  SetPrice Test :::::::");
+
+            //Console.Write($"Setting price directly:");
+            //decimal price = decimal.Parse(Console.ReadLine());
+            //vIP.Setprice(price);
+
+
+            //Console.Write($"Setting price with multiplier:");
+            //decimal price02 = decimal.Parse(Console.ReadLine());
+            //decimal multiplier = decimal.Parse(Console.ReadLine());
+
+            //vIP.Setprice(price02, multiplier);
+           
+
+
+            //Console.WriteLine();
+            //Console.WriteLine("::::::: All Tickets :::::::::");
+            //cinema.PrintAllTickets();
+
+            //Console.WriteLine();
+            //Console.WriteLine("::::::::: Vip Ticket ::::::::::::::");
+            //Cinema.ProcessTicket(vIP);
+
+            //Console.WriteLine();
+            //cinema.CloseCinema();
+            #endregion
         }
     }
 }
